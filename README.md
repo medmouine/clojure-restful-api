@@ -17,5 +17,6 @@ To start a web server for the application, run:
 the server will run on localhost:3000 by default
 
 ## License
+MIT License
+Copyright © Mohamed Mouine (medmouine) 2018
 
-Copyright © 2018 FIXME
